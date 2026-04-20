@@ -146,3 +146,94 @@ Design: "Read AGENT_BRIEF.md and 02-prompts/atlas-logo-branding-prompt.md then h
 Dev: "Read AGENT_BRIEF.md and 02-prompts/alex-chen-prompt.md then build [task]"
 Marketing: "Read AGENT_BRIEF.md and 02-prompts/hellonote-buyer-personas.md then write [ad/email] for [persona]"
 Reports: "Read AGENT_BRIEF.md and 03-reports/clarity-weekly-data/hellonote-clarity-master-data.md then create WoW report"
+
+Social: "Read AGENT_BRIEF.md and 02-prompts/maya-cruz-smm-prompt.md then [write captions/Reels script/content calendar] for [platform]"
+HubSpot: "Read AGENT_BRIEF.md and 02-prompts/ryan-cole-hubspot-prompt.md then [write email sequence/workflow/subject lines]"
+Claude Design: "Read AGENT_BRIEF.md and 02-prompts/atlas-logo-branding-prompt.md and 02-prompts/hellonote-brand-guide.md then open Claude Design and create a [wireframe/high fidelity mockup] for [task]"
+
+---
+
+## SKILL 6 — Maya Cruz
+Social Media Marketing Expert
+
+Activate for:
+- Instagram captions and Reels scripts
+- - TikTok video concepts and scripts
+  - - LinkedIn posts and thought leadership
+    - - Facebook ad copy and community posts
+      - - Content calendar planning
+        - - Hashtag strategy
+          - - Any social media content for any platform
+           
+            - Prompt file: 02-prompts/maya-cruz-smm-prompt.md
+           
+            - How to activate:
+            - "Read AGENT_BRIEF.md and 02-prompts/maya-cruz-smm-prompt.md then [task]"
+           
+            - What Maya produces:
+            - - Platform-specific captions with hashtags
+              - - Reels and TikTok scripts with hook-problem-solution-CTA structure
+                - - Monthly content calendars aligned to therapy awareness months
+                  - - Engagement posts and poll questions
+                    - - Social media content repurposed from ICD-10 and CPT blog posts
+                     
+                      - Persona angle by platform:
+                      - - Solo Sam: Instagram and TikTok — relatable charting exhaustion content
+                        - - Growing Grace: LinkedIn and Facebook — practice growth and scaling tips
+                          - - Burned-Out Beth: Facebook groups and LinkedIn — competitor frustration content
+                            - - New Grad Nick: TikTok and Instagram — starting a practice and coding basics
+                             
+                              - ---
+
+                              ## SKILL 7 — Ryan Cole
+                              HubSpot Marketing Automation Expert
+
+                              Activate for:
+                              - Email onboarding sequences for new signups
+                              - - Demo follow-up email sequences
+                                - - Re-engagement campaigns for inactive users
+                                  - - Free-to-paid upgrade campaigns
+                                    - - HubSpot workflow design
+                                      - - CRM list segmentation strategy
+                                        - - Subject lines and preview text
+                                          - - Any HubSpot or email automation task
+                                           
+                                            - Prompt file: 02-prompts/ryan-cole-hubspot-prompt.md
+                                           
+                                            - How to activate:
+                                            - "Read AGENT_BRIEF.md and 02-prompts/ryan-cole-hubspot-prompt.md then [task]"
+                                           
+                                            - What Ryan produces:
+                                            - - Complete email sequences with subject lines, preview text, and body copy
+                                              - - HubSpot workflow trigger and action maps
+                                                - - CRM segmentation recommendations
+                                                  - - Re-engagement campaign strategies
+                                                    - - Free-to-paid conversion email series
+                                                      - - Demo no-show recovery sequences
+                                                       
+                                                        - Pre-built sequences available:
+                                                        - - Sequence 1: New free signup onboarding (7 emails over 14 days)
+                                                          - - Sequence 2: Demo no-show re-engagement (3 emails)
+                                                            - - Sequence 3: Post-demo follow-up (4 emails)
+                                                              - - Sequence 4: Inactive user re-engagement (3 emails)
+                                                                - - Sequence 5: Free to Lite upgrade campaign (3 emails)
+                                                                 
+                                                                  - ---
+
+                                                                  ## SKILL 2 UPDATE — Atlas Now Includes Claude Design
+                                                                  Atlas has been upgraded with Claude Design execution skills.
+                                                                  Atlas can now build prototypes directly in claude.ai/design in addition to brand strategy.
+
+                                                                  Activate for Claude Design tasks:
+                                                                  "Read AGENT_BRIEF.md and 02-prompts/atlas-logo-branding-prompt.md and 02-prompts/hellonote-brand-guide.md then open Claude Design and create a [wireframe/high fidelity mockup] for [task]"
+
+                                                                  What Atlas builds in Claude Design:
+                                                                  - Landing page mockups for HelloNote
+                                                                  - - Facebook and Google ad creative layouts
+                                                                    - - HubSpot email template layouts
+                                                                      - - ICD-10 blog post wireframes
+                                                                        - - Social media carousel templates
+                                                                          - - Feature UI mockups to present to Dmitry
+                                                                           
+                                                                            - HelloNote design system settings for Claude Design:
+                                                                            - Primary #1B6FD1 | Navy #0F2D52 | Tint #EAF2FB | Font DM Serif Display + DM Sans | Icons Lucide line only
