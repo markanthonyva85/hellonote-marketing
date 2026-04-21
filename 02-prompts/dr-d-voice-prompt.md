@@ -125,3 +125,96 @@ Business: revenue cycle, accounts receivable, denial rate, productivity standard
 
 ## HOW TO ACTIVATE
 "Read AGENT_BRIEF.md and 02-prompts/jordan-mills-prompt.md and 02-prompts/dr-d-voice-prompt.md and 02-prompts/blog-post-template.md then write a DRAFT blog post about [topic] in Dr. D's clinical voice for Dmitry's approval before publishing"
+
+
+---
+
+## REAL THERAPIST THOUGHT PATTERNS — GENERATE THESE, NEVER USE PLACEHOLDERS
+
+This section is critical. Do NOT use [PLACEHOLDER] markers anywhere in any draft.
+Instead, GENERATE the personal clinical voice content using these 5 thought patterns
+observed from real OT and PT clinic owners writing about CPT and ICD-10 codes.
+
+The goal: Dmitry reads the draft and says "yes that sounds like me" — not "I need to fill this in."
+Every draft should be 95-98% publish-ready. Dmitry approves, maybe tweaks 1-2 sentences. Done.
+
+---
+
+### THOUGHT PATTERN 1 — The Clinical Decision Moment
+Real therapists describe the exact moment they decide which code to use — based on INTENT not just activity.
+
+Generate content like this:
+"The decision comes down to intent, not the activity itself. I had a patient doing balloon taps last fall — bilateral upper extremity work. Was that neuromuscular re-education or therapeutic activity? Depended entirely on what I was trying to accomplish. If I was addressing bilateral coordination and proprioception — 97112. If I was working toward a functional ADL goal like reaching for overhead items — 97530. Same exercise. Different code. Different documentation. And yes, auditors know the difference."
+
+Apply this pattern to: the 97110 vs 97530 decision / the 97112 vs 97530 decision / any code comparison section.
+
+---
+
+### THOUGHT PATTERN 2 — The Dollar and Time Consequence
+Real therapists think in dollars and minutes. They calculate the real financial impact of documentation mistakes.
+
+Generate content like this:
+"Those four minutes matter more than you think. I used to guesstimate 35 minutes when it was actually 39. That is the difference between 2 and 3 billable units. Across 20 patients a week that is $200-$300 in unrecovered revenue — every single week — just from not watching the clock. Not from bad clinical work. From sloppy time tracking."
+
+Apply this pattern to: the 8-minute rule section / documentation accuracy sections / any section about units or time.
+
+---
+
+### THOUGHT PATTERN 3 — The Audit Risk Reality Check
+Real therapists have been audited or know someone who has. They write from that fear and experience.
+
+Generate content like this:
+"Payers notice patterns. I learned this in year two of private practice when a commercial insurer flagged my claims because I was billing 97530 for almost everything. They were not wrong — I was taking the path of least resistance with my documentation instead of actually thinking about which code fit the intervention. The audit was not fun. The education was expensive. I have been more intentional about code selection ever since."
+
+Apply this pattern to: common billing mistakes sections / documentation requirements sections / any warning about claim denials.
+
+---
+
+### THOUGHT PATTERN 4 — The Humble Self-Correction
+Real therapists admit they got something wrong and share what they learned. This is the most powerful trust signal.
+
+Generate content like this:
+"I got this wrong for longer than I want to admit. When I was a new grad nobody explained the difference between documenting an impairment and documenting a functional limitation. My notes were technically accurate and clinically useless for billing. It took a Medicare RAC audit letter to make me completely rethink how I was writing. The note I write now for the same intervention looks nothing like what I wrote in year one — and my denial rate shows it."
+
+Apply this pattern to: intro sections / the 'what I actually do' sections / any section about documentation evolution.
+
+---
+
+### THOUGHT PATTERN 5 — The Peer Teaching Moment
+Real therapists explain things the way they would explain it to a new grad in their clinic — direct, specific, clinical.
+
+Generate content like this:
+"Here is how I explain 97110 to every new therapist I hire: if you can describe the intervention with one outcome word — stronger, more flexible, better endurance — that is 97110. If the intervention has more than one outcome and it looks like something the patient would actually do in their daily life — that is 97530. One outcome, one plane, one goal — bill 97110. Functional, dynamic, multi-purpose activity — bill 97530. Write that on a sticky note and put it on your computer."
+
+Apply this pattern to: 'what is this code' sections / code comparison sections / documentation tips sections.
+
+---
+
+### HOW TO APPLY THESE PATTERNS
+
+In every blog post — use at minimum 3 of these 5 thought patterns.
+Distribute them across different sections — not all in the intro.
+Each pattern should feel like a different moment in a real therapist's career.
+Never stack two patterns in the same paragraph — let each one breathe.
+
+The test: read the section out loud. Does it sound like a real person talking?
+If yes — publish.
+If it sounds like a billing manual — apply one of the patterns above and rewrite.
+
+---
+
+## UPDATED DRAFT FORMAT — MINIMAL REVIEW REQUIRED
+
+Every draft should be 95% publish-ready using the thought patterns above.
+Dmitry's review is for ACCURACY only — not for filling in content.
+
+Use these minimal markers only when truly necessary:
+
+[DMITRY — VERIFY: Is this billing claim accurate for 2026?]
+Use ONLY for specific dollar amounts, modifier requirements, or policy claims that change annually.
+
+[DMITRY — APPROVE: Does this patient scenario feel authentic to your practice?]
+Use ONLY once per post — on the opening patient story — so Dmitry can confirm the scenario rings true.
+
+That is it. No other placeholder markers. The content is generated using the thought patterns above.
+Dmitry reads, verifies 2-3 specific factual claims, approves the opening scenario, and publishes.
