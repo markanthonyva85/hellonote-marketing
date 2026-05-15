@@ -15,7 +15,7 @@ Tagline: Built by Therapists. Designed for Trust.
 
 ## Order of Authority
 Read files in this order for any task:
-1. This file — AGENT_BRIEF.md (always first)
+1. This file -- AGENT_BRIEF.md (always first)
 2. AGENT_SKILLS.md (which persona to activate)
 3. 02-prompts/hellonote-brand-guide.md (colors, fonts, components)
 4. 02-prompts/hellonote-buyer-personas.md (audience and messaging)
@@ -23,31 +23,48 @@ Read files in this order for any task:
 
 ---
 
-## Non-Negotiables — Never Break These Rules
+## Non-Negotiables -- Never Break These Rules
+
+### No Em Dashes -- EVERY PERSONA, EVERY PIECE OF CONTENT
+Never use em dashes in any generated content. This applies to every persona, every content type, every platform, and every format including blog posts, social captions, email copy, ad copy, landing pages, scripts, reports, and all other written output.
+
+Replace em dashes with:
+- A comma when the aside is brief
+- A period and new sentence when the thought is distinct
+- Parentheses for clarifying asides
+
+Examples:
+- WRONG: "No contracts -- no setup fees -- cancel anytime."
+- RIGHT: "No contracts. No setup fees. Cancel anytime."
+
+- WRONG: "Medical necessity is not established by describing the intervention -- it is established by connecting it to a functional outcome."
+- RIGHT: "Medical necessity is not established by describing the intervention. It is established by connecting it to a functional outcome."
+
+Em dashes are a known AI writing signal. Using them makes content look machine-generated, which undermines HelloNote's E-E-A-T signals and brand credibility. This rule exists to protect the authenticity of all HelloNote content.
 
 ### Colors
-- Brand Blue: #1B6FD1 — all CTAs, links, primary actions
-- Navy Deep: #0F2D52 — headlines, dark backgrounds, footer
-- Sky Tint: #EAF2FB — card fills, section alternates
-- White: #FFFFFF — primary surface
+- Brand Blue: #1B6FD1 -- all CTAs, links, primary actions
+- Navy Deep: #0F2D52 -- headlines, dark backgrounds, footer
+- Sky Tint: #EAF2FB -- card fills, section alternates
+- White: #FFFFFF -- primary surface
 - NO purple gradients. NO teal accents. NO rainbow icon sets.
-- Sky Tint is the ONLY permitted blue background — never use Brand Blue as a section fill
+- Sky Tint is the ONLY permitted blue background -- never use Brand Blue as a section fill
 
 ### Typography
-- Display/Headlines: DM Serif Display — emotional authority
-- Body/UI/CTAs: DM Sans — clarity and readability
+- Display/Headlines: DM Serif Display -- emotional authority
+- Body/UI/CTAs: DM Sans -- clarity and readability
 - Never substitute these fonts
 
 ### Icons
-- Lucide Icons only — 24px, 1.5px stroke, round linecaps
-- LINE style only — never filled icons
+- Lucide Icons only -- 24px, 1.5px stroke, round linecaps
+- LINE style only -- never filled icons
 - Never mix with Font Awesome or Material Icons
 
 ### Voice and Copy
-- Tone: Fellow therapist who builds software — warm, credible, never corporate
+- Tone: Fellow therapist who builds software -- warm, credible, never corporate
 - Lead with their reality before HelloNote features
-- Specific beats superlative — "4,000+ notes/month" not "thousands of users"
-- CTAs under 3 words — "Start Free" not "Get Started Today for Free"
+- Specific beats superlative -- "4,000+ notes/month" not "thousands of users"
+- CTAs under 3 words -- "Start Free" not "Get Started Today for Free"
 - Banned words: leverage, optimize, solution, streamline, robust
 - Always mention: no contracts, no setup fees, cancel anytime
 - Always reference the therapist-built origin story when possible
@@ -56,7 +73,7 @@ Read files in this order for any task:
 - 2,000+ PT, OT, and SLP practices
 - 4,000+ notes documented per month
 - $0 setup fees on any plan
-- HIPAA compliant — every plan
+- HIPAA compliant -- every plan
 - Free plan: $0 forever, up to 2 patients
 
 ---
@@ -73,28 +90,28 @@ Read files in this order for any task:
 
 ---
 
-## The 4 Buyer Personas — Quick Reference
+## The 4 Buyer Personas -- Quick Reference
 
-Solo Sam — Solo therapist age 27-38. Charts at 9pm. Wants evenings back. CTA: Start Free
-Growing Grace — Practice owner age 35-50. Scaling to multi-provider. CTA: Book Demo
-Burned-Out Beth — Age 38-55. Trapped in legacy EMR contract. CTA: Book Demo
-New Grad Nick — Age 23-30. Just licensed. Price sensitive. CTA: Start Free
+Solo Sam -- Solo therapist age 27-38. Charts at 9pm. Wants evenings back. CTA: Start Free
+Growing Grace -- Practice owner age 35-50. Scaling to multi-provider. CTA: Book Demo
+Burned-Out Beth -- Age 38-55. Trapped in legacy EMR contract. CTA: Book Demo
+New Grad Nick -- Age 23-30. Just licensed. Price sensitive. CTA: Start Free
 
 ---
 
 ## Competitor Context
-WebPT — HelloNote wins: no contracts, lower cost, simpler UI
-SimplePractice — HelloNote wins: therapy-specific, better billing
-TheraPlatform — HelloNote wins: free plan, better CPT/ICD-10 tools
-SPRY PT — HelloNote wins: built by therapists, more affordable
-Jane App — HelloNote wins: US billing compliance, Medicare-ready
+WebPT -- HelloNote wins: no contracts, lower cost, simpler UI
+SimplePractice -- HelloNote wins: therapy-specific, better billing
+TheraPlatform -- HelloNote wins: free plan, better CPT/ICD-10 tools
+SPRY PT -- HelloNote wins: built by therapists, more affordable
+Jane App -- HelloNote wins: US billing compliance, Medicare-ready
 
 ---
 
 ## Key SEO Assets Live on HelloNote
-- hellonote.com/icd-10-codes/ — 107 ICD-10 codes (launched April 2026)
-- hellonote.com/cpt-codes-library/ — 54 CPT codes (launched April 2026)
-- /therapeutic-activity-cpt-code-97530 — Top performing blog post
+- hellonote.com/icd-10-codes/ -- 107 ICD-10 codes (launched April 2026)
+- hellonote.com/cpt-codes-library/ -- 54 CPT codes (launched April 2026)
+- /therapeutic-activity-cpt-code-97530 -- Top performing blog post
 
 ---
 
@@ -115,4 +132,4 @@ For marketing copy add:
 ---
 
 ## Why This File Saves Credits
-Reading this one file gives Claude everything it needs to work correctly on HelloNote. Without it Claude asks clarifying questions, makes brand mistakes, and requires corrections — all of which use extra tokens. This file prevents that waste.
+Reading this one file gives Claude everything it needs to work correctly on HelloNote. Without it Claude asks clarifying questions, makes brand mistakes, and requires corrections -- all of which use extra tokens. This file prevents that waste.
