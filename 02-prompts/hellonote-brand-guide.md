@@ -1,4 +1,4 @@
-# HelloNote Brand Guide v2.1 — March 2026
+# HelloNote Brand Guide v2.1 -- March 2026
 Reference file for all AI personas. Use this when creating content, designs, or copy for HelloNote.
 
 ---
@@ -6,34 +6,43 @@ Reference file for all AI personas. Use this when creating content, designs, or 
 ## Brand Positioning
 - Built by therapists for PT, OT, SLP, and Chiro practices
 - Stage: Growth ($2M ARR)
-- Market: PT, OT, SLP, Chiro
 - Core promise: Built by Therapists. Designed for Trust.
-- One-sentence brand test: Every piece of copy must answer "Why HelloNote and not the other EMR?" Answer: Built by therapists. Priced for solo to enterprise. No contracts.
+- One-sentence brand test: Built by therapists. Priced for solo to enterprise. No contracts.
 
 ---
 
-## Logo System
-- Wordmark + icon mark (doc outline with two content lines = clarity and documentation)
-- Lowercase wordmark = approachability signal
-- Clear space minimum = height of the "h" in "hello"
-- Approved on: white (preferred), sky tint (#EAF2FB), navy dark (#0F2D52)
-- DO NOT: skew/distort, recolor off-brand, place on busy/colorful backgrounds
+## NO EM DASHES -- MANDATORY WRITING RULE
+
+Never use em dashes in any HelloNote content. This applies to all copy, blog posts, social captions, email subject lines, email body copy, ad copy, landing pages, and any other written content.
+
+Replace em dashes with:
+- A comma when the aside is brief
+- A period and new sentence when the thought is distinct
+- Parentheses for clarifying asides
+
+Examples:
+- WRONG: "We built this because we are therapists -- we know the 8-minute rule isn't just a suggestion."
+- RIGHT: "We built this because we are therapists. We know the 8-minute rule isn't just a suggestion."
+- WRONG: "No contracts -- no setup fees -- cancel anytime."
+- RIGHT: "No contracts. No setup fees. Cancel anytime."
+
+Em dashes are a known AI writing signal. Avoiding them keeps all HelloNote content sounding human, credible, and authentic.
 
 ---
 
 ## Color System
 
 ### Primary Colors
-- Brand Blue: #1B6FD1 — CTAs, links, primary actions
-- Navy Deep: #0F2D52 — Headlines, dark BG, footer
-- Sky Tint: #EAF2FB — Card fills, section alternates
-- White: #FFFFFF — Primary surface, card BG
+- Brand Blue: #1B6FD1 -- CTAs, links, primary actions
+- Navy Deep: #0F2D52 -- Headlines, dark BG, footer
+- Sky Tint: #EAF2FB -- Card fills, section alternates
+- White: #FFFFFF -- Primary surface, card BG
 
 ### Supporting Colors
-- Success Green: #16A34A — Confirmations, free tier
-- Amber: #D97706 — Promos, "Most Popular" badge
-- Danger Red: #DC2626 — Errors, destructive actions ONLY
-- Slate: #64748B — Body text, labels, captions
+- Success Green: #16A34A -- Confirmations, free tier
+- Amber: #D97706 -- Promos, "Most Popular" badge
+- Danger Red: #DC2626 -- Errors, destructive actions ONLY
+- Slate: #64748B -- Body text, labels, captions
 
 ### Neutrals
 - Off-white: #F7F9FC
@@ -42,25 +51,25 @@ Reference file for all AI personas. Use this when creating content, designs, or 
 - Gray-700: #334155
 - Gray-900: #0F172A
 
-### Feature Card Accents (4-up section ONLY — do not use elsewhere)
-- Feature Green: #3DC47E — Card 01 Scheduling
-- Feature Amber: #F5A623 — Card 02 Documentation
-- Feature Cyan: #2DB5E8 — Card 03 Patient Comms
-- Feature Pink: #E85D8A — Card 04 Billing
+### Feature Card Accents (4-up section ONLY)
+- Feature Green: #3DC47E -- Card 01 Scheduling
+- Feature Amber: #F5A623 -- Card 02 Documentation
+- Feature Cyan: #2DB5E8 -- Card 03 Patient Comms
+- Feature Pink: #E85D8A -- Card 04 Billing
 
 ### Color Rules
-- One Brand Blue CTA per viewport — when two blue buttons compete, neither wins
-- Sky Tint is the ONLY permitted blue background — never use Brand Blue as section fill
+- One Brand Blue CTA per viewport
+- Sky Tint is the ONLY permitted blue background
 - NO purple gradients, teal accents, or rainbow icon sets
-- Danger Red is reserved for destructive UI states only — never marketing emphasis
+- Danger Red is reserved for destructive UI states only
 
 ---
 
 ## Typography
 
 ### Fonts
-- Display: DM Serif Display — emotional authority, warmth
-- Body: DM Sans — clarity, readability, all UI
+- Display: DM Serif Display -- emotional authority, warmth
+- Body: DM Sans -- clarity, readability, all UI
 
 ### Type Scale
 - Display/Hero: DM Serif Display 52px / 500 weight / -0.025em / 1.1 line-height
@@ -76,10 +85,8 @@ Reference file for all AI personas. Use this when creating content, designs, or 
 ## Iconography
 - Library: Lucide Icons
 - Size: 24px standard, 22-24px in feature contexts
-- Style: 1.5px stroke, round linecaps — LINE ICONS ONLY, never filled
-- Icon in colored tile: 22px on 44px container with #EAF2FB background
-- Never mix Lucide with other icon sets (Font Awesome, Material)
-- Always pair icons with text labels in feature sections
+- Style: 1.5px stroke, round linecaps -- LINE ICONS ONLY, never filled
+- Never mix Lucide with other icon sets
 
 ---
 
@@ -88,10 +95,10 @@ HelloNote's voice = a fellow therapist who also happens to build software. Warm.
 Test: Would a PT say this to a colleague over coffee? If yes, it's on brand.
 
 ### 4 Voice Principles
-1. Lead with their reality, not your features — "Still charting after your last patient?" beats "Our EMR streamlines documentation"
-2. Specific beats superlative — "4,000+ notes per month" beats "#1 EMR"
-3. CTAs under 3 words when possible — "Start Free" beats "Get Started Today for Free"
-4. Peer voice not sales voice — write like someone who has charted a SOAP note at 9pm
+1. Lead with their reality, not your features -- "Still charting after your last patient?" beats "Our EMR streamlines documentation"
+2. Specific beats superlative -- "4,000+ notes per month" beats "#1 EMR"
+3. CTAs under 3 words when possible -- "Start Free" beats "Get Started Today for Free"
+4. Peer voice not sales voice
 
 ### Do / Don't Examples
 DO: "Still charting after your last patient? HelloNote gives you your evenings back."
@@ -100,14 +107,14 @@ DONT: "Leverage our industry-leading EMR solution to optimize your therapy docum
 DO: "No setup fees. No contracts. Cancel anytime."
 DONT: "Experience the HelloNote difference with our commitment-free, transparent pricing options."
 
-DO: "We built this because we are therapists — we know the 8-minute rule isn't just a suggestion."
+DO: "We built this because we are therapists. We know the 8-minute rule isn't just a suggestion."
 DONT: "Our platform has been purpose-built with your unique clinical workflows in mind."
 
 ### Approved CTAs
 - Start Free
 - Book Demo
 - See Pricing
-- Start Free →
+- Start Free ->
 - Book a Demo
 
 ### Never Use
@@ -120,9 +127,8 @@ DONT: "Our platform has been purpose-built with your unique clinical workflows i
 ## Key Brand Stats (use in copy)
 - 2,000+ PT, OT & SLP practices
 - 4,000+ notes documented per month
-- $0 setup fees — ever, on any plan
-- Specialties: PT, OT, SLP
-- HIPAA compliant — every plan
+- $0 setup fees -- ever, on any plan
+- HIPAA compliant -- every plan
 
 ---
 
@@ -139,17 +145,15 @@ DONT: "Our platform has been purpose-built with your unique clinical workflows i
 - Dark navy background
 - DM Serif Display headline in italic for emotional weight
 - White primary CTA
-- Trust signals below fold: "No credit card required · HIPAA compliant · Cancel anytime"
+- Trust signals: "No credit card required · HIPAA compliant · Cancel anytime"
 
 ### Wave Dividers (Signature Element)
-- Organic wave curves between sections — never hard geometric dividers
+- Organic wave curves between sections -- never hard geometric dividers
 - Always use preserveAspectRatio="none"
-- Never use triangle, angled-cut, or zig-zag dividers
 
 ### Motion Rules
-- Entrance: opacity 0→1 + translateY 16px→0, 320ms ease-out
-- Button press: scale 1→0.97, 100ms
-- Max duration: 400ms UI, 600ms hero reveals
+- Entrance: opacity 0 to 1 + translateY 16px to 0, 320ms ease-out
+- Button press: scale 1 to 0.97, 100ms
 - No parallax scroll, no autoplay video above fold
 
 ---
