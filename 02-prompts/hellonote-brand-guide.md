@@ -1,4 +1,4 @@
-# HelloNote Brand Guide v2.1 -- March 2026
+# HelloNote Brand Guide v2.2 -- June 2026
 Reference file for all AI personas. Use this when creating content, designs, or copy for HelloNote.
 
 ---
@@ -67,18 +67,22 @@ Em dashes are a known AI writing signal. Avoiding them keeps all HelloNote conte
 
 ## Typography
 
+Verified against the live hellonote.com site (computed styles, June 2026). This supersedes any prior reference to DM Serif Display or DM Sans, which were never the fonts actually deployed in production.
+
 ### Fonts
-- Display: DM Serif Display -- emotional authority, warmth
-- Body: DM Sans -- clarity, readability, all UI
+- Display/Headlines: Livvic -- used for H1 and H2 across the live site
+- Body/UI/Buttons: Nunito -- used for body copy, paragraphs, and button text across the live site
 
 ### Type Scale
-- Display/Hero: DM Serif Display 52px / 500 weight / -0.025em / 1.1 line-height
-- H1: DM Serif Display 38px / regular / -0.02em / 1.15 line-height
-- H2: DM Sans 28px / 500 / -0.01em / 1.2 line-height
-- H3: DM Sans 20px / 500 / 0em / 1.3 line-height
-- Body: DM Sans 16px / 400 / 0em / 1.7 line-height
-- Caption: DM Sans 13px / 400 / 0em / 1.6 line-height
-- Eyebrow/Label: DM Sans 11px / 500 / 0.12em / UPPERCASE
+- Display/Hero: Livvic 52px / 600 weight / -0.01em / 1.1 line-height
+- H1: Livvic 38px / 600 / -0.01em / 1.15 line-height
+- H2: Livvic 28px / 600 / 0em / 1.2 line-height
+- H3: Nunito 20px / 600 / 0em / 1.3 line-height
+- Body: Nunito 16px / 400 / 0em / 1.7 line-height
+- Caption: Nunito 13px / 400 / 0em / 1.6 line-height
+- Eyebrow/Label: Nunito 11px / 600 / 0.12em / UPPERCASE
+
+Note: weights and sizes above follow the established type scale ratios from the prior guide version. Confirm exact weight/size values against live CSS if pixel-perfect parity is needed for a specific component.
 
 ---
 
@@ -143,7 +147,7 @@ DONT: "Our platform has been purpose-built with your unique clinical workflows i
 
 ### Hero Section
 - Dark navy background
-- DM Serif Display headline in italic for emotional weight
+- Livvic headline for emotional weight
 - White primary CTA
 - Trust signals: "No credit card required · HIPAA compliant · Cancel anytime"
 
