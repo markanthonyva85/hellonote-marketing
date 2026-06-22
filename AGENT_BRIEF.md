@@ -51,9 +51,10 @@ Em dashes are a known AI writing signal. Using them makes content look machine-g
 - Sky Tint is the ONLY permitted blue background -- never use Brand Blue as a section fill
 
 ### Typography
-- Display/Headlines: DM Serif Display -- emotional authority
-- Body/UI/CTAs: DM Sans -- clarity and readability
+- Display/Headlines: Livvic -- emotional authority
+- Body/UI/CTAs: Nunito -- clarity and readability
 - Never substitute these fonts
+- Verified against the live hellonote.com site (computed styles, June 2026). This supersedes any prior reference to DM Serif Display or DM Sans, which were never the fonts actually deployed in production.
 
 ### Icons
 - Lucide Icons only -- 24px, 1.5px stroke, round linecaps
